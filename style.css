@@ -1,0 +1,30 @@
+#link1{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(5, 197, 197),rgb(255, 230, 0));
+    padding: 5px 16px;
+    border-radius: 5px;
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.box{
+    display:flex;
+}
+.size1{
+    width: 50%;
+    margin-left: 4%;
+    text-align: justify;
+}
+.size1 img{
+    width: 70%;
+}
+#color1{
+    color: orangered;
+}
+#box2{
+    margin-top: 100px;
+}
+#shadow{
+    background-color: antiquewhite;
+}
